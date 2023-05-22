@@ -44,4 +44,5 @@ Install other required packages:
 pip install jupyter
 pip install opencv-python
 pip install matplotlib
+pip install labelme
 ```
