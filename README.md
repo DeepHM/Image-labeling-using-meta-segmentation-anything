@@ -1,5 +1,5 @@
 # Image-labeling-using-meta-segmentation-anything
-Project of image labeling with the help of meta-segmentation-anything
+Image segmentation labeling project with the help of meta-segmentation-anything model
 
  <br/> 
  
