@@ -7,6 +7,9 @@ Project of image labeling with the help of meta-segmentation-anything
 ## Process overview
 1. image load
 2. image visualization and point click --> get point
+
+<img src="https://github.com/leofansq/CPCL/assets/37736774/7c8a4edb-cc04-471c-932d-4029536eea86  width="200" height="400"/>
+                                                                                                                         
 3. Pass the image from 1. and the points from 2. to Segment Anything Model(SAM) to get the image segmentation prediction result
 4. Detect outlines using image processing techniques such as findContours and convert them into polygons
 
