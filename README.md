@@ -1,8 +1,6 @@
 # Image-labeling-using-meta-segmentation-anything
 Image segmentation labeling project with the help of meta-Segment Anything Model(SAM)
 
- <br/> 
- 
 ## Process overview
 1. image load
 2. image visualization and point click (using opencv) --> get point
@@ -18,7 +16,7 @@ Image segmentation labeling project with the help of meta-Segment Anything Model
 6. Read the json created above and the working image (from Labelme)
 7. After that, check whether the generated polygon annotation is normal or not, save it as it is if it is perfect, and if there is a slight error, correct some of it and save it.
 
-![image](https://github.com/DeepHM/Image-labeling-using-meta-segmentation-anything/assets/37736774/cf076aa6-a951-409c-b5ef-1365544484e4)
+![ccc](https://github.com/DeepHM/Image-labeling-using-meta-segmentation-anything/assets/37736774/bbe9d3f6-c4ba-4a37-a7c1-bab8da9bb042)
 
  <br/> 
  
