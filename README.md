@@ -14,6 +14,10 @@ Project of image labeling with the help of meta-segmentation-anything
 ![bb](https://github.com/DeepHM/Image-labeling-using-meta-segmentation-anything/assets/37736774/5a40478c-9102-434a-b3d5-255c8634cf02)
 
 4. Detect outlines using image processing techniques such as findContours and convert them into polygons
+5. After creating dictionary according to the file format of labelme "annotation.json" for the polygons in 4., save the new json with the image
+6. Read the json created above and the working image (from Labelme)
+7. After that, check whether the generated polygon annotation is normal or not, save it as it is if it is perfect, and if there is a slight error, correct some of it and save it.
+
 
  <br/> 
  
