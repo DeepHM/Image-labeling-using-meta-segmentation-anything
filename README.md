@@ -5,7 +5,7 @@ Image segmentation labeling project with the help of meta-Segment Anything Model
 1. image load
 2. image visualization and point click (using opencv) --> get point(yellow)
 
-![aaa](https://github.com/DeepHM/Image-labeling-using-meta-segmentation-anything/assets/37736774/9428d178-5e82-4368-92dc-f622cdca604a)
+![a](https://github.com/DeepHM/Image-labeling-using-meta-segmentation-anything/assets/37736774/1b0c168a-cdfe-4b43-9a26-efd8838ed827)
 
 3. Pass the image from 1. and the points from 2. to SAM to get the image segmentation prediction result
 
