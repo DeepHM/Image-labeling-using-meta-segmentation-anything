@@ -5,7 +5,7 @@ Image segmentation labeling project with the help of meta-segmentation-anything 
  
 ## Process overview
 1. image load
-2. image visualization and point click --> get point
+2. image visualization and point click (using opencv) --> get point
 
 ![aaa](https://github.com/DeepHM/Image-labeling-using-meta-segmentation-anything/assets/37736774/9428d178-5e82-4368-92dc-f622cdca604a)
 
