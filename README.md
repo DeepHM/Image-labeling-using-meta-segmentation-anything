@@ -18,6 +18,7 @@ Project of image labeling with the help of meta-segmentation-anything
 6. Read the json created above and the working image (from Labelme)
 7. After that, check whether the generated polygon annotation is normal or not, save it as it is if it is perfect, and if there is a slight error, correct some of it and save it.
 
+![image](https://github.com/DeepHM/Image-labeling-using-meta-segmentation-anything/assets/37736774/cf076aa6-a951-409c-b5ef-1365544484e4)
 
  <br/> 
  
