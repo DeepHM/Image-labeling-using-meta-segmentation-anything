@@ -10,6 +10,9 @@ Project of image labeling with the help of meta-segmentation-anything
 ![aaa](https://github.com/DeepHM/Image-labeling-using-meta-segmentation-anything/assets/37736774/9428d178-5e82-4368-92dc-f622cdca604a)
 
 3. Pass the image from 1. and the points from 2. to Segment Anything Model(SAM) to get the image segmentation prediction result
+
+![bb](https://github.com/DeepHM/Image-labeling-using-meta-segmentation-anything/assets/37736774/5a40478c-9102-434a-b3d5-255c8634cf02)
+
 4. Detect outlines using image processing techniques such as findContours and convert them into polygons
 
  <br/> 
