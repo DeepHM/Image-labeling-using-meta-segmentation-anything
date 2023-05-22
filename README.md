@@ -56,4 +56,5 @@ pip install jupyter
 pip install opencv-python
 pip install matplotlib
 pip install labelme
+# pip install pycocotools or pip install pycocotools-windows
 ```
