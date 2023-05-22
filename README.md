@@ -41,8 +41,11 @@ Install Meta Segment Anything:
 ```
 pip install git+https://github.com/facebookresearch/segment-anything.git
 ```
+Download a model checkpoint:
 
-Install other required packages:
+[here](https://github.com/facebookresearch/segment-anything#model-checkpoints)
+
+- Install other required packages
 ```
 pip install jupyter
 pip install opencv-python
